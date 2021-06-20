@@ -5,3 +5,6 @@ function devB() {
 }
 
 
+function createBranchDevB() {
+    console.log('Vui quá mình vừa mới tạo nhánh devB nè!!!');
+}
